@@ -1,5 +1,5 @@
 <p>
-    <a href="https://github.com/jiyiren/"><img alt="logo" width="36" height="36" src="http://7xknpe.com1.z0.glb.clouddn.com/projectknotes.png" alt="knotes"></a>
+    <a href="https://github.com/jiyiren/"><img alt="logo" width="36" height="36" src="http://7xknpe.com1.z0.glb.clouddn.com/projectknotes-100.png" alt="knotes"></a>
 </p>
 
 <h1 align="center">
